@@ -1,0 +1,20 @@
+# Language Model & Fine-tuning
+transformers
+torch
+sentencepiece
+datasets
+scikit-learn
+numpy
+accelerate
+
+# Screenshot & Image Processing
+Pillow
+
+# Window Control
+pywin32
+
+# OCR Engine
+pytesseract
+
+# Image Preprocessing
+opencv-python

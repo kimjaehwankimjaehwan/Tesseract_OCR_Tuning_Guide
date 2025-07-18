@@ -1,0 +1,17 @@
+
+{
+  "response_rules": {
+    "수업중": {
+      "response_type": "RANDOM",
+      "responses": ["네, 집중하겠습니다.", "알겠습니다."]
+    },
+    "쉬는시간": {
+      "response_type": "FIXED",
+      "responses": ["네, 쉬는 시간!"]
+    },
+    "출석": {
+      "response_type": "RANDOM",
+      "responses": ["출석", "출첵!", "네"]
+    }
+  }
+}
